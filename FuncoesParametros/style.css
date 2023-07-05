@@ -1,0 +1,30 @@
+body{
+    background-color: #F9E0BB;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 24px;
+}
+
+.bt-container{
+    margin: 0 auto;
+}
+
+form{
+    text-align: center;
+}
+
+p{
+    color: rgb(3, 3, 3);
+    font-weight: bolder;
+    text-align: center;
+}
+
+pre{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
